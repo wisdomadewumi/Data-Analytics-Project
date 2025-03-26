@@ -1,4 +1,4 @@
-# Data-Analytics Project
+# Data Analytics Project
 
 Welcome to the **Data Analytics Project** repository! ☄️
 
