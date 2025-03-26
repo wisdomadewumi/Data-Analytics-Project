@@ -4,16 +4,16 @@ Welcome to the **Data Analytics Project** repository! ☄️
 
 This project shows SQL scripts I used for data Exploration, Analysis and Reporting. It is based on the outcome of a **[Data Warehouse Project](https://github.com/wisdomadewumi/Data-Warehouse-Project)** I built sometime ago; I use the gold layer for this pahse. Designed as a portfolio project, it highlights industry best practices and orderly workflow in data and analytics.
 
-___
+---
 ## 📖 Project Overview
 
 This project involves:
 
-1. **Data Exploration**:
-2. **Analytics**: Building SQL-based reports and dashboards to deliver actionable insights.
-3. **Reporting**:
+1. **Data Exploration**: Understanding the structure and content of the database to identify key dimensions and measures.
+2. **Analytics**: Analyzing customer demographics, product categories, and other dimensions for segmentation. Also, calculating key business metrics like total sales, average price, and total customers.
+3. **Reporting**: Generating summary reports of key metrics for business insights.
 
-___
+---
 ## ☄️ Project Requirements
 
 ### 📊 BI: Analytics & Reporting (Data Analysis)
@@ -47,7 +47,24 @@ data-warehouse-project/
 ---
 ## 🧩 Skills Showcased
 
-6. **Data Analytics & Reporting** – Creating SQL-based reports, dashboards, and insights for business intelligence.
+1. Database Exploration: Querying metadata using INFORMATION_SCHEMA.TABLES and INFORMATION_SCHEMA.COLUMNS to understand database structure.
+2. Data Retrieval: Using SELECT statements with filtering, grouping, and ordering to extract meaningful data.
+3. Joins: Performing LEFT JOIN operations to combine data from multiple tables (e.g., fact_sales, dim_customers, and dim_products).
+4. Aggregations: Using aggregate functions like SUM, COUNT, AVG, MIN, and MAX to calculate metrics.
+5. Window Functions: Applying RANK and ROW_NUMBER for ranking and partitioning data.
+6. Subqueries and Common Table Expressions (CTEs): Using subqueries and WITH clauses for complex queries and intermediate calculations.
+7. Conditional Filtering: Using WHERE and HAVING clauses to filter data based on specific conditions.
+8. Union Operations: Combining results from multiple queries using UNION ALL.
+9. Sorting and Limiting Results: Using ORDER BY and TOP to sort and limit query results.
+
+---
+## 📈 Data Analysis Skills
+
+1. Dimensional Analysis
+2. Trend Analysis
+3. Performance Metrics
+4. Ranking and Comparison
+5. Distribution Analysis
 
 ---
 ## 🪪 License
