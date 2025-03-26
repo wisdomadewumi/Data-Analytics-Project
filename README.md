@@ -47,15 +47,15 @@ data-warehouse-project/
 ---
 ## 🧩 Skills Showcased
 
-1. Database Exploration: Querying metadata using INFORMATION_SCHEMA.TABLES and INFORMATION_SCHEMA.COLUMNS to understand database structure.
-2. Data Retrieval: Using SELECT statements with filtering, grouping, and ordering to extract meaningful data.
-3. Joins: Performing LEFT JOIN operations to combine data from multiple tables (e.g., fact_sales, dim_customers, and dim_products).
-4. Aggregations: Using aggregate functions like SUM, COUNT, AVG, MIN, and MAX to calculate metrics.
-5. Window Functions: Applying RANK and ROW_NUMBER for ranking and partitioning data.
-6. Subqueries and Common Table Expressions (CTEs): Using subqueries and WITH clauses for complex queries and intermediate calculations.
-7. Conditional Filtering: Using WHERE and HAVING clauses to filter data based on specific conditions.
-8. Union Operations: Combining results from multiple queries using UNION ALL.
-9. Sorting and Limiting Results: Using ORDER BY and TOP to sort and limit query results.
+1. **Database Exploration:** Querying metadata using INFORMATION_SCHEMA.TABLES and INFORMATION_SCHEMA.COLUMNS to understand database structure.
+2. **Data Retrieval:** Using SELECT statements with filtering, grouping, and ordering to extract meaningful data.
+3. **Joins:** Performing LEFT JOIN operations to combine data from multiple tables (e.g., fact_sales, dim_customers, and dim_products).
+4. **Aggregations:** Using aggregate functions like SUM, COUNT, AVG, MIN, and MAX to calculate metrics.
+5. **Window Functions:** Applying RANK and ROW_NUMBER for ranking and partitioning data.
+6. **Subqueries and Common Table Expressions (CTEs):** Using subqueries and WITH clauses for complex queries and intermediate calculations.
+7. **Conditional Filtering:** Using WHERE and HAVING clauses to filter data based on specific conditions.
+8. **Union Operations:** Combining results from multiple queries using UNION ALL.
+9. **Sorting and Limiting Results:** Using ORDER BY and TOP to sort and limit query results.
 
 ---
 ## 📈 Data Analysis Skills
@@ -81,7 +81,7 @@ We can connect on LinkedIn or you could check my portfolio website:
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wisdomadewumi.github.io)
 
 ----
-## 📝 Credit
+## 📝 Shout Out
 
 Thanks to **Data with Baraa**'s YouTube Channel, I was able to not only complete this but understand the excellent intricacies involved in building a data pipeline. He is one of the best (if not the best) teachers on YouTube as regards Data Engineering Data Science and Data Analytics.
 Kindly check him out here:
