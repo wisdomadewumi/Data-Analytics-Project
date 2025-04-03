@@ -48,7 +48,8 @@ data-analytics-project/
 ---
 ## 12-Step Agenda
 
-[Data Analysis Steps](doc/data_analytics_steps.png)
+The steps to explore and analyze the data are outlined here:
+![Data Analysis Steps](doc/data_analytics_steps.png)
 
 ---
 ## 🧩 Skills Showcased
