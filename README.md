@@ -30,15 +30,16 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 ## 🗃️ Repository Structure
 ```
-data-warehouse-project/
+data-analytics-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── data_analytics_steps.drawio     # Draw.io file shows the project's 12 steps
 │
-├── scripts/                            # SQL scripts for DB creation, ETL and transformations
-│   ├── bronze_layer_1/                 # Scripts for extracting and loading raw data
+├── scripts/                            # SQL scripts for data exploration and analytics
+│   ├── 01_analytics/                   # Scripts for exploring and analyzing transformed data
+│   ├── 02_reporting/                   # Scripts for reporting analyzed data for customers and products
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
@@ -56,15 +57,6 @@ data-warehouse-project/
 7. **Conditional Filtering:** Using WHERE and HAVING clauses to filter data based on specific conditions.
 8. **Union Operations:** Combining results from multiple queries using UNION ALL.
 9. **Sorting and Limiting Results:** Using ORDER BY and TOP to sort and limit query results.
-
----
-## 📈 Data Analysis Skills
-
-1. Dimensional Analysis
-2. Trend Analysis
-3. Performance Metrics
-4. Ranking and Comparison
-5. Distribution Analysis
 
 ---
 ## 🪪 License
