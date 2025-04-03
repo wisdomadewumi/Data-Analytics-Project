@@ -46,6 +46,11 @@ data-analytics-project/
 ```
 
 ---
+## 12-Step Agenda
+
+![Data Analysis Steps](docs/data_analytics_steps.png)
+
+---
 ## 🧩 Skills Showcased
 
 1. **Database Exploration:** Querying metadata using INFORMATION_SCHEMA.TABLES and INFORMATION_SCHEMA.COLUMNS to understand database structure.
